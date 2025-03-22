@@ -54,7 +54,7 @@ Por fim, o projeto inclui um Diagrama de Entidade Relacionamento, que representa
 #### Como abrir o DER
 Para visualizar o arquivo, é necessário:
 - Baixar o arquivo.
-- Instalar a ferramenta BrModelo, disponível neste [LINK](https://www.sistemasparainformatica.com/brmodelo/).
+- Instalar a ferramenta BrModelo, disponível neste [LINK](https://www.brmodeloweb.com/lang/pt-br/index.html).
 - Abrir o arquivo diretamente na ferramenta para visualizar e editar o modelo.
 
 _______________________________________________________________________________________________________________________
